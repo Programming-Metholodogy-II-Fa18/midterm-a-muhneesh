@@ -1,2 +1,1 @@
-# empty
-Empty repository.
+Data.java is the code for problem 2
